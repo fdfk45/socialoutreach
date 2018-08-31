@@ -1,0 +1,18 @@
+ .search-result .lg4 {
+     /*        max-width: 300px;*/
+ }
+ 
+ .overlay {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background: #000;
+     opacity: 0.5;
+ }
+ 
+ .overlay .loader {
+     margin-left: 45%;
+     margin-top: 200px;
+ }
